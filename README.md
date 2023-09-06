@@ -153,7 +153,10 @@
   ->In Add post-build actions
     ..Select Record fingerprints
     ..*.py(All python fingerprints will be fingerprinted)
-    
+
+#
+..name of the syntax used to describe periodic builds---CronJob
+..node by default runs the build--Built-in  
   
         
  
