@@ -1,4 +1,4 @@
-# jenkins
+# Jenkins
 # Installing jenkins
 ->Using Dockerhub
    Download Jenkins and run image in a container
@@ -68,7 +68,7 @@
   ->Single execution of tasks
   ->Every run is a build
 
-  # Job to mean automation task and Build to mean single execution of the automation task at the current state of system and possibly some variables as input
+  ...Job to mean automation task and Build to mean single execution of the automation task at the current state of system and possibly some variables as input
 
 # Create a Build in jenkins
  ->Search password in initialadminpassword
